@@ -30,7 +30,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@tech_apostle/videos" target="_blank"><b>Code with Albert</b></a>.
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@tech_apostle/videos" target="_blank"><b>Code with Tech Apostle</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -85,7 +85,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mendsalbert/lingua-speak.git
+git clone https://github.com/jossyboydgenius/lingua-speak.git
 cd linguaspeak
 ```
 
